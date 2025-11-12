@@ -1,0 +1,54 @@
+.profile {
+    background-color: #cfdef3; 
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgb(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+.img_profile {
+    background-color: magenta; 
+    text-align: center;
+}
+
+.name_profile {
+    background-color: #fff; 
+    text-align: center;
+}
+
+.boton_profile {
+    flex: 1;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color:#cfdef3;
+     text-align: right;
+}
+
+.h1 {
+    font-size: 4px;
+    font-weight: 200;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+
+.on-follow {
+    background-color: rgb(25, 135, 84);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.off-follow {
+    background-color: rgb(220, 53, 69);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
